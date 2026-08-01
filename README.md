@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio de Quality Assurance.
 
-Este repositório reúne projetos de testes manuais desenvolvidos durante meus estudos e prática na área de QA.
+Este repositório reúne projetos práticos desenvolvidos durante minha transição para a área de QA, demonstrando conhecimentos em testes manuais, documentação de casos de teste, identificação de melhorias e boas práticas de Quality Assurance.
 
 ## Habilidades demonstradas
 
