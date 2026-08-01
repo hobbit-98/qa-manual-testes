@@ -5,12 +5,12 @@ Este diretório reúne os casos de teste manuais desenvolvidos para o projeto Au
 ## Test Cases
 
 | ID | Cenário | Status |
-|----|---------|--------|
-| TC01 | Cadastro de novo usuário | ✅ |
-| TC02 | Login com credenciais válidas | ✅ |
-| TC03 | Login com senha inválida | ✅ |
-| TC04 | Logout do usuário | ✅ |
-| TC05 | Cadastro com e-mail já existente | ✅ |
+|----|----------|--------|
+| [TC01](./TC01_Register_User.pdf) | Cadastro de novo usuário | ✅ |
+| [TC02](./TC02_Login_Valid_User.pdf) | Login com credenciais válidas | ✅ |
+| [TC03](./TC03_Login_Invalid_Password.pdf) | Login com senha inválida | ✅ |
+| [TC04](./TC04_Logout_User.pdf) | Logout do usuário | ✅ |
+| [TC05](./TC05_Register_Existing_Email.pdf) | Cadastro com e-mail já existente | ✅ |
 
 ## Objetivo
 
