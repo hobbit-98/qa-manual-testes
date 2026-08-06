@@ -27,7 +27,6 @@ Este repositório reúne projetos práticos desenvolvidos durante minha transiç
 ## Ferramentas
 
 - Excel
-- GitHub
 - Automation Exercise
 - Testes Manuais
 
